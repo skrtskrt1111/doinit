@@ -1,3 +1,9 @@
+Сделано на Laravel 9, Php 8. из рабочего: логин, регистрация, добавление, изменение, удаление , поиск, фильтрация задач, пагинация, категории. Задачи у всех пользователей одинаковые(не пон почему в прошлом проекте у всех были личные).Встроился плагин Вите.
+-----Установка composer update -> npm install->npm run dev -> в другой консоли php artisan serve. В базе данных надо добавить 1 любую категорию по задумке должно быть 2(выполненные и не выполненные)
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
